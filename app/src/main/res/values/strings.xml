@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ColorList</string>
+    <array name="array_cores">
+        <item>Azul</item>
+        <item>Preto</item>
+        <item>Branco</item>
+        <item>Amarelo</item>
+    </array>
 </resources>
